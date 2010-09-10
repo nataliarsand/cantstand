@@ -1,0 +1,2 @@
+# Set these environment variables to your consumer token and secret and you are good to go
+CallBackURL, ConsumerToken, ConsumerSecret = ENV['http://localhost:3000/'], ENV['Uv3fImXlGuKE67dYxNXSSA'], ENV['z7EDEziMFTXTNCbr1HJkqu3rVtnGynoH78PEWKfoI']
